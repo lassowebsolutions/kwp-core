@@ -1,0 +1,6 @@
+[submodule "wp-content/plugins"]
+	path = wp-content/plugins
+	url = git@github.com:krislagraff/kwp-plugins.git
+[submodule "wp-content/themes/kwp-theme"]
+	path = wp-content/themes/kwp-theme
+	url = git@github.com:krislagraff/kwp-theme.git
